@@ -210,9 +210,9 @@ table tr th {
 
 .wrapper {
     display: grid;
-    grid-template-columns: repeat(2, 1);
+    grid-template-columns: repeat(1, 1);
     gap: 10px;
-    grid-auto-rows: minmax(33px, 33px);
+    grid-auto-rows: minmax(33px, auto);
     font-family: sans-serif;
     animation-duration: 3s;
     animation-name: slidein;
