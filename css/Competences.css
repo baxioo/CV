@@ -222,7 +222,7 @@ table tr th {
     padding-left: 6%;
     grid-column: 1;
     grid-row: 1;
-    text-align: center;
+    text-align: left;
 }
 
 .two {
@@ -234,7 +234,7 @@ table tr th {
     padding-left: 6%;
     grid-column: 3;
     grid-row: 1;
-    text-align: center;
+    text-align: left;
 }
 
 .four {
