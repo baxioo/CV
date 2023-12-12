@@ -211,8 +211,8 @@ table tr th {
 .wrapper {
     display: grid;
     grid-template-columns: repeat(2, 1);
-    gap: 10px;
-    grid-auto-rows: minmax(33px, auto);
+    gap: 5px;
+    grid-auto-rows: minmax(25px, auto);
     font-family: sans-serif;
     animation-duration: 3s;
     animation-name: slidein;
