@@ -211,14 +211,15 @@ table tr th {
 .wrapper {
     display: grid;
     grid-template-columns: repeat(2, 1);
-    gap: 5px;
-    grid-auto-rows: minmax(25px, auto);
+    gap: 10px;
+    grid-auto-rows: minmax(100px, auto);
     font-family: sans-serif;
     animation-duration: 3s;
     animation-name: slidein;
 }
 
 .one {
+    padding-top: 4%;
     padding-left: 6%;
     grid-column: 1;
     grid-row: 1;
@@ -228,9 +229,11 @@ table tr th {
 .two {
     grid-column: 2;
     grid-row: 1;
+    padding-top: 12%;
 }
 
 .three {
+    padding-top: 8%;
     padding-left: 6%;
     grid-column: 1;
     grid-row: 2;
@@ -240,9 +243,11 @@ table tr th {
 .four {
     grid-column: 2;
     grid-row: 2;
+    padding-top: 14%;
 }
 
 .five {
+    padding-top: 8%;
     padding-left: 6%;
     grid-column: 1;
     grid-row: 3;
@@ -252,9 +257,11 @@ table tr th {
 .six {
     grid-column: 2;
     grid-row: 3;
+    padding-top: 16%;
 }
 
 .seven {
+    padding-top: 8%;
     padding-left: 6%;
     grid-column: 1;
     grid-row: 4;
@@ -264,9 +271,11 @@ table tr th {
 .eight {
     grid-column: 2;
     grid-row: 4;
+    padding-top: 16%;
 }
 
 .nine {
+    padding-top: 8%;
     padding-left: 6%;
     grid-column: 1;
     grid-row: 5;
@@ -276,6 +285,96 @@ table tr th {
 .ten {
     grid-column: 2;
     grid-row: 5;
+    padding-top: 13%;
+}
+
+.four2 {
+    grid-column: 2;
+    grid-row: 2;
+    padding-top: 15%;
+}
+
+.six2 {
+    grid-column: 2;
+    grid-row: 3;
+    padding-top: 15%;
+}
+
+.eight2 {
+    grid-column: 2;
+    grid-row: 4;
+    padding-top: 13%;
+}
+
+.ten2 {
+    grid-column: 2;
+    grid-row: 5;
+    padding-top: 15%;
+}
+
+.two3 {
+    grid-column: 2;
+    grid-row: 1;
+    padding-top: 13%;
+}
+
+.four3 {
+    grid-column: 2;
+    grid-row: 2;
+    padding-top: 19%;
+}
+
+.six3 {
+    grid-column: 2;
+    grid-row: 3;
+    padding-top: 19%;
+}
+
+.eight3 {
+    grid-column: 2;
+    grid-row: 4;
+    padding-top: 18%;
+}
+
+.ten3 {
+    grid-column: 2;
+    grid-row: 5;
+    padding-top: 16%;
+}
+
+.one2 {
+    padding-top: 4%;
+    grid-column: 1;
+    grid-row: 1;
+    text-align: center;
+}
+
+.three2 {
+    padding-top: 8%;
+    grid-column: 1;
+    grid-row: 2;
+    text-align: center;
+}
+
+.five2 {
+    padding-top: 8%;
+    grid-column: 1;
+    grid-row: 3;
+    text-align: center;
+}
+
+.seven2 {
+    padding-top: 8%;
+    grid-column: 1;
+    grid-row: 4;
+    text-align: center;
+}
+
+.nine2 {
+    padding-top: 8%;
+    grid-column: 1;
+    grid-row: 5;
+    text-align: center;
 }
 
 .policeDate {
