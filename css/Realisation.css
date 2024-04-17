@@ -299,6 +299,7 @@ table tr th {
     font-size: 18px;
     font-weight: 250;
     padding-left: 3%;
+    width: 50%;
 }
 
 .liens {

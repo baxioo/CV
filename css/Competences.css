@@ -377,6 +377,159 @@ table tr th {
     text-align: center;
 }
 
+.eleven {
+    padding-top: 8%;
+    grid-column: 1;
+    grid-row: 6;
+    text-align: center;
+}
+
+.twelve {
+    grid-column: 2;
+    grid-row: 6;
+    padding-top: 19%;
+}
+
+.thirdteen {
+    padding-top: 8%;
+    padding-left: 6%;
+    grid-column: 1;
+    grid-row: 7;
+    text-align: center;
+}
+
+.fourteen {
+    grid-column: 2;
+    grid-row: 7;
+    padding-top: 18%;
+}
+
+.fiveteen {
+    padding-top: 8%;
+    padding-left: 6%;
+    grid-column: 1;
+    grid-row: 8;
+    text-align: center;
+}
+
+.sixteen {
+    grid-column: 2;
+    grid-row: 8;
+    padding-top: 19%;
+}
+
+.seventeen {
+    padding-top: 8%;
+    padding-left: 6%;
+    grid-column: 1;
+    grid-row: 9;
+    text-align: center;
+}
+
+.eighteen {
+    grid-column: 2;
+    grid-row: 9;
+    padding-top: 19%;
+}
+
+.nineteen {
+    padding-top: 8%;
+    padding-left: 6%;
+    grid-column: 1;
+    grid-row: 10;
+    text-align: center;
+}
+
+.twenty {
+    grid-column: 2;
+    grid-row: 10;
+    padding-top: 19%;
+}
+
+.twentyOne {
+    padding-top: 8%;
+    padding-left: 6%;
+    grid-column: 1;
+    grid-row: 11;
+    text-align: center;
+}
+
+.twentyTwo {
+    grid-column: 2;
+    grid-row: 11;
+    padding-top: 19%;
+}
+
+.twentyThree {
+    padding-top: 8%;
+    padding-left: 6%;
+    grid-column: 1;
+    grid-row: 12;
+    text-align: center;
+}
+
+.twentyFour {
+    grid-column: 2;
+    grid-row: 12;
+    padding-top: 19%;
+}
+
+.twentyFive {
+    padding-top: 8%;
+    padding-left: 6%;
+    grid-column: 1;
+    grid-row: 13;
+    text-align: center;
+}
+
+.twentySix {
+    grid-column: 2;
+    grid-row: 13;
+    padding-top: 19%;
+}
+
+.twentySeven {
+    padding-top: 8%;
+    padding-left: 6%;
+    grid-column: 1;
+    grid-row: 14;
+    text-align: center;
+}
+
+.twentyEight {
+    grid-column: 2;
+    grid-row: 14;
+    padding-top: 19%;
+}
+
+.twentyNine {
+    padding-top: 8%;
+    padding-left: 6%;
+    grid-column: 1;
+    grid-row: 15;
+    text-align: center;
+}
+
+.thirty {
+    grid-column: 2;
+    grid-row: 15;
+    padding-top: 19%;
+}
+
+.thirtyOne {
+    padding-top: 8%;
+    padding-left: 6%;
+    grid-column: 1;
+    grid-row: 16;
+    text-align: center;
+}
+
+.thirtyTwo {
+    grid-column: 2;
+    grid-row: 16;
+    padding-top: 19%;
+}
+
 .policeDate {
     padding-left: 12%;
     padding-top: 13px;
